@@ -17,6 +17,10 @@ A simple and elegant Weather App built using **HTML**, **CSS**, and **JavaScript
 ![Image](https://github.com/user-attachments/assets/e5687420-0da4-4322-ae75-5369d4457a0b)
 
 ---
+### 📺 Live Demo  
+[Click here to see the live demo](https://manavrai2104.github.io/weather-app/)
+
+---
 
 ## 🚀 Features
 
