@@ -14,7 +14,7 @@ A simple and elegant Weather App built using **HTML**, **CSS**, and **JavaScript
 
 ## 📸 Preview
 
-![Weather App Screenshot](https://your-screenshot-link-here.com)
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/e153934a-a58a-400f-a5f9-2ad962b8e67f" />
 
 ---
 
